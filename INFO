@@ -1,0 +1,10 @@
+{
+	"name": "GoogleDrive",
+	"hostprefix": "drive.google.com",
+	"displayname": "Google Drive",
+	"version": "1.0",
+	"authentication": "no",
+	"module": "host.php",
+	"class": "googledrivedownload",
+	"description": "Google Drive File Download"
+}
